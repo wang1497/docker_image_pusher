@@ -19,3 +19,4 @@ registry.k8s.io/metrics-server/metrics-server:v0.6.3
 php:8-apache
 registry.k8s.io/ingress-nginx/controller:v1.10.1
 registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.4.1
+registry.k8s.io/metrics-server/metrics-server:v0.7.1
