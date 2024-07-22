@@ -1,1 +1,1 @@
-prometheus/alermanager:v0.27.0
+prometheus/alermanager:v0.26.0
