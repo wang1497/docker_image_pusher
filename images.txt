@@ -1,5 +1,5 @@
 prom/node-exporter:v1.8.1
-prom/prometheus:2.53.0
+prom/prometheus:2.53.1
 prom/alermanager:0.27.0
 registry.k8s.io/ingress-nginx/controller:v1.8.0
 registry.k8s.io/ingress-nginx/kube-webhook-certgen:v20230407
